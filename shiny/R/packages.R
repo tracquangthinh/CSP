@@ -1,0 +1,7 @@
+library(shiny)
+library(shinythemes)
+library(shinysky)
+library(shinyjs)
+library(DT)
+library(ggplot2)
+library(plotly)

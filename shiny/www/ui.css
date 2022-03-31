@@ -1,0 +1,26 @@
+#pathwaySearch {
+  font-size: 12px !important;
+}
+
+.first-container{
+  margin-left: -15px;
+  margin-right: -15px;
+}
+.fold-change-input label{
+  width: 100px; 
+}
+
+.t-test-input label{
+  width: 70px; 
+}
+
+.chi-square-test-input label{
+  width:70px; 
+}
+#inline label{ display: table-cell; text-align: center; vertical-align: middle;} 
+#inline .form-group { display: table-row;}
+#inline input{margin-left: 10px;}
+
+.tt-suggestion{
+  font-size: 12px;
+}
