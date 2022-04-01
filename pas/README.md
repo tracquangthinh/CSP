@@ -8,7 +8,7 @@
 
 - Create a directory `data` 
 
-- [Download](https://drive.google.com/file/d/19gkQmYP09-Qwtm8MK1xhxLen5Vf0VsrK/view?usp=sharing), extract all files to created `data` directory. The compressed file contains gene expression, zscore obtained from network enrichment analysis (NEA) and up/down-stream gene sets. Note that gene expression contains 2 demo samples.
+- [Download](https://drive.google.com/file/d/1aPoBnBCa7YnND3S8iRklHtbvMfqJL-_W/view?usp=sharing), extract all files to created `data` directory. The compressed file contains gene expression, zscore obtained from network enrichment analysis (NEA) and up/down-stream gene sets. Note that gene expression contains 2 demo samples.
 
 ## Execution
 
