@@ -8,7 +8,7 @@
 
 - R packages: shiny, shinythemes, shinysky, shinyjs, DT, ggplot2, plotly
 
-- Download `data_shiny` from [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6452389.svg)](https://doi.org/10.5281/zenodo.6452389), extract the `data` directory to the main directory.
+- Download `data_shiny` from [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6787033.svg)](https://doi.org/10.5281/zenodo.6787033), extract the `data` directory to the main directory.
 
 ## Execution
 

@@ -261,7 +261,7 @@ plot_pas_auc_fig = function(percent, p, pick, is_gdsc=TRUE){
   }
   df = data.frame(PAS=nscore(pas), AUC=nscore(auc))
   # m = lm(df$PAS ~ df$AUC)
-  plt = ggplot(df, aes(x=AUC, y=PAS))+
+  plt = ggplot(df, aes(x=PAS, y=AUC))+
     geom_point(size=2, color = "#1f77b4", alpha = 0.8)+
     theme_classic()+
     theme(axis.text.x = element_text(size = 16)) +

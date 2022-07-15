@@ -6,7 +6,7 @@
 
 - R packages: Rfast, fastmatch, parallel
 
-- Download `data_pas` from [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6452389.svg)](https://doi.org/10.5281/zenodo.6452389), extract the `data` directory to the main directory. The compressed file contains gene expression, zscore obtained from network enrichment analysis (NEA) and up/down-stream gene sets. Note that gene expression contains 2 demo samples.
+- Download `data_pas` from [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6787033.svg)](https://doi.org/10.5281/zenodo.6787033), extract the `data` directory to the main directory. The compressed file contains gene expression, zscore obtained from network enrichment analysis (NEA) and up/down-stream gene sets. Note that gene expression contains 2 demo samples.
 
 ## Execution
 

@@ -130,7 +130,7 @@ server = shinyServer(function(input, output, session) {
   )
 
   output$pas_auc_title = renderText({
-      "For top 20% CSPs from GDSC, 40 CSPs are significant in BeatAML"
+      "For top 20% CSPs from GDSC, 28 CSPs are significant in BeatAML"
   })
 
 
