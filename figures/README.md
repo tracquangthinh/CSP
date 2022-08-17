@@ -1,6 +1,6 @@
 # Figures in the manuscript
 
-- Producing all figures in the CSP manuscript and the supplementary document
+- Producing all figures in the DCSP manuscript and the supplementary document
 
 ## Requirements
 

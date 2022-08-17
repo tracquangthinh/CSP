@@ -1,6 +1,6 @@
 # Shiny Application for CSP
 
-- Source code for [CSP](https://www.meb.ki.se/shiny/truvu/CSP/)
+- Source code for [DCSP](https://www.meb.ki.se/shiny/truvu/DCSP/)
 
 ## Requirements
 
